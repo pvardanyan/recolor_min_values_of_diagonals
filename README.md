@@ -1,0 +1,1 @@
+# recolor_min_values_of_diagonals
